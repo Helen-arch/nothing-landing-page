@@ -7,4 +7,4 @@ Because beautiful tech shouldn’t be complicated.
 
 Technologies: HTML5, CSS3, SCSS, BEM
 
-    - [DEMO LINK](https://Helen-arch.github.io/nothing-landing-page/)
+    - [DEMO LINK](https://helen-arch.github.io/layout_landing-page/)
